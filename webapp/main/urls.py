@@ -1,5 +1,3 @@
-#urls.py
-
 from http import client
 from django.urls import path
 from .views import (
